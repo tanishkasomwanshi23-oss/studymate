@@ -17,7 +17,7 @@ A free, AI-powered study tool that extracts content from YouTube videos, PDFs, W
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/your-username/studymate.git
-cd studymate
+cd summariser
 ```
 
 ### 2. Create a virtual environment (recommended)
